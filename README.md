@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7E6363&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 I'm a Junior Flutter Developer
+- 👨‍💻 I'm a Flutter Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, Flutter, or anything related to mobile development.
 - 🍵 Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
